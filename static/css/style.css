@@ -1,0 +1,111 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  
+  body {
+    /* Padding bottom by footer height */
+    padding-bottom: 50px;
+    background-color: azure;
+  }
+  
+  #footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%; /* Set the fixed height of the footer here */
+    height: 10px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: #58a1a5;
+  }
+  
+  #footer p {
+    margin: 0;
+    font-size: 16px;
+    text-align: center;
+    color: aliceblue;
+  }
+  
+  
+  .d-block img {
+    width: 200px;
+    height: 200px;
+    padding-right: 5px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 15px; 
+  }
+
+  .add-summary {
+    margin-top: 100px;
+    
+  }
+
+  .summary {
+    
+    margin-top: 30px;
+    margin-right: 20px;
+    text-align: left;
+  }
+  .nav-link {
+    font-size: 20px;
+  }
+  
+  .comparison-chart {
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: white;
+  }
+  .comparison-chart2{
+    margin-top: 37px;
+    background-color: white;
+  }
+    
+  .description {
+    margin-top: 15px;
+    font-size: 10px;
+  }
+  .options {
+    margin-top: 30px;
+  }
+  .city_sel {
+    margin-top: 30px;
+  }
+  select {
+    background-color: rgb(141, 200, 204);
+    
+  }
+  
+  #myChart {
+    height:100%;
+    width:100%;
+    min-height:250px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+  }
+  .zc-ref {
+    display: none;
+  }
+  #zillow {
+    font-size: 10px;
+  }
+  .forecast {
+    margin-top: 30px;
+  
+  }
+
+  #ch2 {
+    margin-top: 70px;
+  }
+  #chartDiv11 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  html,body {
+    height: 100%;
+  }
+  #map {
+    height: 100%;
+    
+  }

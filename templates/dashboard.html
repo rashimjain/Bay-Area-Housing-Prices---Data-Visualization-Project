@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+         <meta charset="UTF-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>Analysis of Bay Area Housing Prices</title>
+         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+         crossorigin="anonymous"></script>
+         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+         crossorigin="anonymous"></script>
+         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+         crossorigin="anonymous"></script>
+         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+         crossorigin="anonymous">
+         <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+         <script src="http://cdnjs.cloudflare.com/ajax/libs/dygraph/2.1.0/dygraph.min.js"></script>
+         <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/dygraph/2.1.0/dygraph.min.css" />
+         <link rel="shortcut icon" href="#" />
+         
+         <script src= "https://cdn.zingchart.com/zingchart.min.js"></script>
+		 <script> zingchart.MODULESDIR = "https://cdn.zingchart.com/modules/";
+		ZC.LICENSE = ["569d52cefae586f634c54f86dc99e6a9","ee6b7db5b51705a13dc2339db3edaf6d"];</script>
+
+    </head>
+
+    <body>
+        <!-- Header -->
+        <nav class="navbar navbar-expand-md bg-info navbar-dark">
+            <!-- Toggler/collapsibe Button -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            
+            <!-- Navbar links -->
+            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/map">Map</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/dashboard">Dashboard</a>
+                    </li>
+                </ul>
+            </div>    
+        </nav> 
+        
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="city_sel">
+                        <h5>Select  City:</h5>
+                        <select id="city1" onchange="optionChanged(this.value)"></select>
+                    </div>
+                    <div class="forecast">
+                        <h5>Home Listings and Sales</h5>   
+                        <h6>Forecast: change in the Zillow Home Value Index over the next 12 months.</h6>
+                        <div id="div_forecast">
+                            <div id="city_forecast">
+                                <p></p>
+                            </div> 
+                        </div> 
+                        
+                        
+                        
+                        <p id="zillow">Zillow publishes its forecast for the Zillow Home Value Index (ZHVI) using
+                            <a href="https://www.zillow.com/research/zillow-home-value-forecast-methodology-2-3740/">this methodology.</a>
+                        </p>
+                    </div>
+                </div>  
+                
+            
+                
+                <div class="col-md-8">
+                    <section class="comparison-chart">
+                        <div id="graphdiv"
+                            style="width:95%; height:250px"></div>
+                        
+                        <p class="description">This chart is interactive: you can mouse over to highlight individual values. You can click and drag to zoom. Double-clicking will zoom you back out. Shift-drag will pan.</p>
+
+
+
+                    </section>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <h5>Potential Market</h5>
+                    
+                    <div id='myChart'></div>
+                </div>
+                <div class="col-md-6">
+                    <section class="comparison-chart2">
+                        <div id='chartDiv12' style="width:100%; height:300px;"></div>
+                        
+                    </section> 
+                </div>
+            </div>
+            
+
+
+            <div class="row">
+                
+                <div class="col-md-12">
+                    <h5>Rental Pricing Trend</h5>
+                    <div id='chartDiv11'></div>  
+                     
+                </div>
+
+            </div>
+           
+
+            
+        </div>
+
+
+
+       <!-- Footer-->
+       
+                      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script> 
+        
+        <script src="{{ url_for('static', filename='js/logic.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/app2.js') }}"></script> 
+        
+        
+    </body>
+</html>

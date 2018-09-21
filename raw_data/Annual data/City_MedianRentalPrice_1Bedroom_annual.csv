@@ -1,0 +1,626 @@
+RegionName,State,Type,2010,2011,2012,2013,2014,2015,2016,2017,2018
+New York,NY,1-Bedroom,2389,2360,2493,2640,2574,2265,2246,2335,2365
+Los Angeles,CA,1-Bedroom,1305,1326,1371,1513,1529,1761,1921,1987,2106
+Chicago,IL,1-Bedroom,1367,1311,1372,1546,1559,1566,1622,1507,1546
+Houston,TX,1-Bedroom,0,0,0,0,1177,1215,1298,1231,1265
+Philadelphia,PA,1-Bedroom,1250,1162,1128,1140,1190,1191,1239,1332,1389
+Phoenix,AZ,1-Bedroom,572,617,654,671,679,720,840,945,1002
+Las Vegas,NV,1-Bedroom,628,695,629,657,687,776,838,875,902
+San Antonio,TX,1-Bedroom,0,626,699,727,787,781,818,824,896
+San Diego,CA,1-Bedroom,0,1341,1320,1344,1458,1676,1750,1769,1860
+Dallas,TX,1-Bedroom,0,924,939,1076,1144,1155,1227,1278,1328
+San Jose,CA,1-Bedroom,0,0,0,1661,1985,2368,2527,2417,2458
+Jacksonville,FL,1-Bedroom,649,714,707,795,870,892,865,904,985
+San Francisco,CA,1-Bedroom,0,2345,2686,2869,3098,3452,3547,3301,3356
+Indianapolis,IN,1-Bedroom,0,0,577,565,562,604,712,757,743
+Austin,TX,1-Bedroom,0,889,919,888,1006,1035,1086,1078,1117
+Fort Worth,TX,1-Bedroom,0,657,679,713,770,855,964,1044,1208
+Detroit,MI,1-Bedroom,0,500,533,513,523,540,532,589,612
+Columbus,OH,1-Bedroom,0,0,0,565,600,699,752,806,838
+Memphis,TN,1-Bedroom,0,764,641,655,593,636,727,697,766
+Charlotte,NC,1-Bedroom,0,0,0,0,971,1034,1127,1221,1197
+El Paso,TX,1-Bedroom,0,0,0,0,0,627,587,576,556
+Boston,MA,1-Bedroom,0,1880,1949,2039,2023,2059,2077,2026,2060
+Seattle,WA,1-Bedroom,0,1115,1256,1462,1574,1697,1774,1843,2005
+Baltimore,MD,1-Bedroom,0,0,0,0,0,1125,1146,1200,1408
+Denver,CO,1-Bedroom,0,0,1031,1070,1188,1437,1448,1422,1591
+Washington,DC,1-Bedroom,1977,2168,2290,2218,2085,2111,2172,2144,2258
+Nashville,TN,1-Bedroom,0,0,0,0,1003,1195,1369,1520,1544
+Milwaukee,WI,1-Bedroom,0,0,0,0,0,0,775,778,788
+Tucson,AZ,1-Bedroom,0,507,518,509,501,525,548,576,615
+Portland,OR,1-Bedroom,0,0,0,0,0,0,1607,1506,1562
+Oklahoma City,OK,1-Bedroom,0,0,0,0,0,0,750,723,739
+Omaha,NE,1-Bedroom,0,535,577,632,690,715,754,775,862
+Albuquerque,NM,1-Bedroom,0,0,617,615,575,611,699,662,696
+Fresno,CA,1-Bedroom,0,0,0,0,0,0,510,593,650
+Sacramento,CA,1-Bedroom,0,701,715,793,761,832,985,1100,1188
+Mesa,AZ,1-Bedroom,0,557,589,598,634,620,675,761,803
+Long Beach,CA,1-Bedroom,0,1031,994,1057,1020,1107,1280,1407,1497
+Kansas City,MO,1-Bedroom,0,810,657,621,697,702,764,849,894
+Virginia Beach,VA,1-Bedroom,0,0,0,0,0,0,0,1033,1096
+Atlanta,GA,1-Bedroom,1102,1092,1025,1037,1182,1284,1384,1405,1472
+Miami,FL,1-Bedroom,1540,1617,1702,1800,1856,1916,1995,1925,1944
+Oakland,CA,1-Bedroom,0,0,0,0,0,2008,2255,2194,2192
+Tulsa,OK,1-Bedroom,0,0,0,0,0,0,627,628,617
+Honolulu,HI,1-Bedroom,0,1550,1533,1708,1651,1860,1821,1728,1784
+Minneapolis,MN,1-Bedroom,0,0,0,1423,1282,1315,1432,1407,1555
+Baton Rouge,LA,1-Bedroom,0,0,0,0,0,0,0,988,986
+New Orleans,LA,1-Bedroom,0,0,0,0,0,1243,1307,1263,1239
+Arlington,TX,1-Bedroom,0,542,568,611,649,693,795,828,931
+Raleigh,NC,1-Bedroom,0,698,773,766,807,826,1032,1062,1071
+Wichita,KS,1-Bedroom,0,0,0,0,0,541,482,557,619
+Tampa,FL,1-Bedroom,0,0,0,0,0,0,0,1248,1317
+Anaheim,CA,1-Bedroom,0,1175,1140,1160,1229,1313,1603,1747,1798
+Santa Ana,CA,1-Bedroom,0,0,0,0,0,0,1690,1622,1801
+Aurora,CO,1-Bedroom,0,0,0,0,0,0,0,1290,1238
+Saint Louis,MO,1-Bedroom,0,0,641,609,613,700,710,736,777
+Corpus Christi,TX,1-Bedroom,0,0,0,0,841,807,879,855,953
+Pittsburgh,PA,1-Bedroom,0,0,0,0,0,0,0,1017,1051
+Riverside,CA,1-Bedroom,0,830,839,843,834,968,1119,1124,1309
+Marietta,GA,1-Bedroom,0,0,0,0,763,858,887,854,914
+Anchorage,AK,1-Bedroom,0,0,0,0,972,966,957,930,930
+Bakersfield,CA,1-Bedroom,0,0,0,0,0,0,0,0,704
+Saint Paul,MN,1-Bedroom,0,0,0,0,0,0,1133,1092,1246
+Toledo,OH,1-Bedroom,0,0,0,0,0,0,0,479,508
+Silver Spring,MD,1-Bedroom,0,1294,1477,1574,1570,1612,1545,1533,1637
+Lexington,KY,1-Bedroom,0,629,637,625,647,693,723,729,737
+Stockton,CA,1-Bedroom,0,0,0,0,0,0,0,863,849
+Plano,TX,1-Bedroom,0,783,805,869,916,944,1039,1110,1153
+Buffalo,NY,1-Bedroom,0,0,0,0,0,0,0,841,848
+Chandler,AZ,1-Bedroom,0,729,771,779,806,853,945,973,1011
+Louisville,KY,1-Bedroom,0,0,0,695,758,726,751,792,840
+Henderson,NV,1-Bedroom,0,0,0,0,0,0,0,979,1029
+Modesto,CA,1-Bedroom,0,0,0,0,0,0,0,0,1017
+Mobile,AL,1-Bedroom,0,0,0,0,0,0,0,610,584
+Jersey City,NJ,1-Bedroom,0,0,1987,2069,1944,1930,2072,2061,2329
+Lubbock,TX,1-Bedroom,0,0,0,0,0,619,589,587,583
+Durham,NC,1-Bedroom,0,0,0,0,0,0,1088,1016,1043
+Orlando,FL,1-Bedroom,634,716,787,808,830,876,1020,1070,1172
+Norfolk,VA,1-Bedroom,0,0,0,0,0,0,0,0,1083
+Saint Petersburg,FL,1-Bedroom,0,701,707,722,712,772,851,901,979
+Pensacola,FL,1-Bedroom,0,0,0,0,0,0,0,789,876
+Fort Wayne,IN,1-Bedroom,0,0,0,0,0,0,0,491,494
+Greensboro,NC,1-Bedroom,0,0,555,590,572,578,616,655,709
+Lincoln,NE,1-Bedroom,0,0,675,700,724,740,765,767,847
+San Bernardino,CA,1-Bedroom,0,0,0,0,0,0,0,803,847
+Corona,CA,1-Bedroom,0,0,1051,1018,1105,1162,1229,1348,1607
+Chula Vista,CA,1-Bedroom,0,0,0,0,0,0,1438,1596,1700
+Chesapeake,VA,1-Bedroom,0,0,0,0,0,0,0,1092,1046
+Hialeah,FL,1-Bedroom,0,0,0,0,0,0,0,1253,1222
+Madison,WI,1-Bedroom,0,0,0,0,0,0,1014,1000,1005
+Garland,TX,1-Bedroom,0,0,0,0,697,700,853,950,998
+Fort Myers,FL,1-Bedroom,0,648,638,659,698,807,919,972,970
+Knoxville,TN,1-Bedroom,0,0,537,599,636,624,653,663,732
+Laredo,TX,1-Bedroom,0,0,0,0,0,0,0,0,829
+North Las Vegas,NV,1-Bedroom,0,0,0,0,0,0,0,854,898
+Lawrenceville,GA,1-Bedroom,0,0,0,0,0,0,0,892,945
+Fremont,CA,1-Bedroom,0,0,1398,1592,1792,2017,2195,2169,2230
+Fayetteville,NC,1-Bedroom,0,0,0,0,0,0,0,600,621
+Springfield,MO,1-Bedroom,0,425,419,446,451,464,475,491,496
+Arlington,VA,1-Bedroom,0,2426,2113,1996,1920,1905,1945,1986,2032
+Irving,TX,1-Bedroom,0,0,0,0,0,0,1094,1094,1146
+Gilbert,AZ,1-Bedroom,0,0,0,0,0,0,0,1008,1009
+Scottsdale,AZ,1-Bedroom,0,0,0,0,0,0,1230,1218,1249
+Rochester,NY,1-Bedroom,0,0,619,639,708,708,723,728,793
+Winston-Salem,NC,1-Bedroom,0,0,0,0,0,0,0,725,704
+Irvine,CA,1-Bedroom,1541,1562,1569,1676,1703,1788,1846,1923,2014
+Richmond,VA,1-Bedroom,0,0,0,0,0,0,1017,1010,1065
+Boca Raton,FL,1-Bedroom,0,0,0,0,0,0,0,0,1848
+Bradenton,FL,1-Bedroom,0,614,725,691,772,825,971,995,1067
+Santa Rosa,CA,1-Bedroom,0,934,1003,1181,1094,1366,1535,1595,1741
+Tacoma,WA,1-Bedroom,0,0,0,0,0,0,0,1108,1162
+Grand Rapids,MI,1-Bedroom,0,0,0,0,0,0,0,1200,1032
+Oceanside,CA,1-Bedroom,0,0,0,0,1446,1342,1408,1493,1599
+Gainesville,FL,1-Bedroom,0,0,0,0,0,0,692,710,767
+Glendale,CA,1-Bedroom,0,0,0,0,0,0,0,2010,2065
+Boise,ID,1-Bedroom,0,564,575,603,569,608,671,703,795
+Greenville,SC,1-Bedroom,0,0,0,0,0,0,0,1076,1003
+Birmingham,AL,1-Bedroom,0,0,0,0,0,0,0,947,939
+Huntington Beach,CA,1-Bedroom,0,0,0,0,0,0,0,2496,2287
+Akron,OH,1-Bedroom,0,0,0,0,0,0,0,539,542
+Rockford,IL,1-Bedroom,0,0,0,0,0,0,0,525,538
+Salinas,CA,1-Bedroom,0,0,0,0,0,0,0,1371,1396
+Moreno Valley,CA,1-Bedroom,0,0,0,0,0,0,0,0,1145
+Little Rock,AR,1-Bedroom,0,0,0,0,785,694,710,702,705
+Port Saint Lucie,FL,1-Bedroom,0,0,0,0,0,0,0,1001,1029
+Providence,RI,1-Bedroom,0,0,0,0,1295,1290,1267,1398,1431
+Amarillo,TX,1-Bedroom,0,0,0,0,0,0,0,624,650
+Shreveport,LA,1-Bedroom,0,0,0,0,0,0,0,596,586
+Evansville,IN,1-Bedroom,0,0,0,0,0,0,0,485,481
+Yonkers,NY,1-Bedroom,0,1232,1198,1211,1281,1358,1405,1418,1504
+Hayward,CA,1-Bedroom,0,0,0,0,0,0,0,1893,1872
+Fort Lauderdale,FL,1-Bedroom,0,1175,1155,1200,1140,1316,1418,1376,1449
+Chattanooga,TN,1-Bedroom,0,0,0,0,0,0,0,881,840
+Columbus,GA,1-Bedroom,0,0,0,0,0,0,0,675,743
+Aurora,IL,1-Bedroom,0,0,0,0,0,0,0,1135,1233
+Ontario,CA,1-Bedroom,0,0,0,0,0,0,0,1466,1481
+Grand Prairie,TX,1-Bedroom,0,0,0,0,0,0,977,949,952
+Rancho Cucamonga,CA,1-Bedroom,0,1095,1207,1228,1299,1334,1444,1517,1592
+Overland Park,KS,1-Bedroom,0,0,0,0,0,846,889,888,918
+Newport News,VA,1-Bedroom,0,0,0,0,0,827,807,832,847
+Garden Grove,CA,1-Bedroom,0,0,0,0,0,0,0,1549,1536
+Killeen,TX,1-Bedroom,0,0,0,0,0,0,0,464,470
+Roanoke,VA,1-Bedroom,0,0,0,0,0,0,0,717,694
+Sioux Falls,SD,1-Bedroom,0,0,0,0,0,667,740,722,697
+Tempe,AZ,1-Bedroom,0,0,0,0,0,0,1123,1007,1113
+El Cajon,CA,1-Bedroom,0,0,0,0,0,0,0,1293,1360
+Topeka,KS,1-Bedroom,0,0,0,0,0,0,0,453,502
+Fredericksburg,VA,1-Bedroom,0,0,0,0,0,0,0,1176,1157
+Pembroke Pines,FL,1-Bedroom,0,910,1006,1062,1078,1126,1235,1283,1350
+Naperville,IL,1-Bedroom,0,0,0,0,1155,1122,1220,1218,1301
+Peoria,AZ,1-Bedroom,0,0,0,0,0,0,0,906,913
+Fairfax,VA,1-Bedroom,0,1655,1557,1591,1519,1520,1558,1614,1691
+Santa Clarita,CA,1-Bedroom,0,0,1339,1410,1422,1508,1590,1676,1725
+Pomona,CA,1-Bedroom,0,0,0,0,0,0,0,1223,1226
+Kansas City,KS,1-Bedroom,0,0,0,0,0,0,0,971,915
+Boynton Beach,FL,1-Bedroom,0,875,930,1016,1126,1147,1232,1268,1299
+Salem,OR,1-Bedroom,0,0,0,0,0,0,0,733,774
+Hollywood,FL,1-Bedroom,0,0,0,0,0,0,0,1380,1407
+Paterson,NJ,1-Bedroom,0,0,0,0,0,0,0,1203,1257
+Lakewood,CO,1-Bedroom,0,696,839,893,1034,1205,1350,1298,1425
+Alexandria,VA,1-Bedroom,0,0,1490,1576,1689,1713,1687,1653,1661
+Dayton,OH,1-Bedroom,0,0,0,0,0,0,0,456,504
+Sunnyvale,CA,1-Bedroom,0,0,1859,1854,2083,2373,2546,2545,2660
+Charleston,SC,1-Bedroom,0,0,0,0,1317,1246,1312,1323,1365
+Bridgeport,CT,1-Bedroom,0,900,939,935,943,925,1030,1022,1028
+Escondido,CA,1-Bedroom,0,0,0,0,0,0,0,1312,1347
+Newark,DE,1-Bedroom,0,0,0,0,0,0,0,911,939
+Round Rock,TX,1-Bedroom,0,768,780,813,854,873,921,925,1013
+Hampton,VA,1-Bedroom,0,814,793,747,701,763,796,829,880
+Pasadena,CA,1-Bedroom,0,0,0,0,1971,1959,1994,2110,2163
+Torrance,CA,1-Bedroom,0,1240,1226,1289,1286,1290,1434,1500,1569
+Columbia,SC,1-Bedroom,0,0,0,0,764,753,751,751,822
+Tyler,TX,1-Bedroom,0,0,0,0,758,761,738,758,803
+Mesquite,TX,1-Bedroom,0,0,0,0,0,0,0,796,818
+Fullerton,CA,1-Bedroom,0,0,0,0,0,0,0,1695,1707
+McKinney,TX,1-Bedroom,0,0,0,0,863,898,937,983,1028
+Renton,WA,1-Bedroom,0,0,0,1051,1082,1212,1300,1331,1372
+Metairie,LA,1-Bedroom,0,0,0,0,0,0,0,869,866
+Inglewood,CA,1-Bedroom,0,0,0,0,0,0,0,1262,1361
+Orange,CA,1-Bedroom,0,0,0,0,0,0,0,1901,1956
+New Haven,CT,1-Bedroom,0,1270,1234,1155,1163,1126,1174,1162,1168
+Abilene,TX,1-Bedroom,0,0,0,0,0,0,0,0,485
+Bellevue,WA,1-Bedroom,0,0,0,0,0,0,0,1898,1952
+Bloomington,IN,1-Bedroom,0,0,872,777,726,720,696,735,699
+Olathe,KS,1-Bedroom,0,0,0,0,0,0,0,696,706
+Miramar,FL,1-Bedroom,0,1080,1101,1160,1195,1272,1321,1341,1485
+Coral Springs,FL,1-Bedroom,0,874,929,954,959,1018,1095,1160,1166
+Hartford,CT,1-Bedroom,0,0,0,0,0,0,0,837,850
+Stamford,CT,1-Bedroom,1631,1722,1656,1820,1695,1836,1879,1856,2036
+Simi Valley,CA,1-Bedroom,0,0,0,0,0,0,0,1733,1776
+Concord,CA,1-Bedroom,0,0,0,0,0,0,0,1733,1689
+Frisco,TX,1-Bedroom,0,0,889,905,947,965,1070,1174,1207
+Carrollton,TX,1-Bedroom,0,0,0,0,0,0,1043,1076,1041
+Billings,MT,1-Bedroom,0,0,0,0,573,585,578,594,615
+Allentown,PA,1-Bedroom,0,0,748,690,678,739,784,821,910
+Amherst,NY,1-Bedroom,0,0,0,0,0,0,0,1179,1159
+Vallejo,CA,1-Bedroom,0,0,0,0,0,0,0,1469,1473
+Santa Clara,CA,1-Bedroom,0,0,1767,1823,1950,2239,2337,2404,2477
+Cary,NC,1-Bedroom,0,0,739,828,870,835,906,958,1032
+Cypress,TX,1-Bedroom,0,0,0,0,0,0,0,992,1019
+Conroe,TX,1-Bedroom,0,0,0,0,0,0,919,948,1006
+Berkeley,CA,1-Bedroom,0,0,0,0,0,0,0,2424,2637
+Hemet,CA,1-Bedroom,0,0,0,0,0,0,0,882,855
+Norman,OK,1-Bedroom,0,0,0,0,0,0,0,631,647
+Falls Church,VA,1-Bedroom,0,0,1461,1425,1400,1463,1534,1590,1775
+Springfield,IL,1-Bedroom,0,0,0,0,0,0,0,560,556
+Denton,TX,1-Bedroom,0,631,671,703,738,762,755,819,866
+Downey,CA,1-Bedroom,0,0,0,0,0,0,0,1427,1450
+Thornton,CO,1-Bedroom,0,0,0,0,0,1074,1155,1192,1246
+Frederick,MD,1-Bedroom,0,0,0,0,1278,1249,1195,1143,1235
+Westminster,CO,1-Bedroom,0,0,0,0,0,0,1149,1189,1277
+Lansing,MI,1-Bedroom,0,0,0,0,0,0,0,601,631
+Waterbury,CT,1-Bedroom,0,0,0,0,0,0,710,717,721
+Temecula,CA,1-Bedroom,0,0,0,0,0,0,0,1409,1470
+Costa Mesa,CA,1-Bedroom,0,0,1433,1437,1464,1729,1776,1796,1853
+Manchester,NH,1-Bedroom,0,802,803,823,846,869,885,978,1032
+Vista,CA,1-Bedroom,0,0,0,0,0,0,0,1531,1577
+Ventura,CA,1-Bedroom,0,0,0,0,0,1392,1448,1435,1538
+Murrieta,CA,1-Bedroom,0,0,0,0,0,0,0,1341,1379
+Peoria,IL,1-Bedroom,0,0,0,0,0,0,0,597,602
+Ann Arbor,MI,1-Bedroom,0,0,0,0,0,0,0,1100,1114
+Lowell,MA,1-Bedroom,0,0,0,0,0,0,0,1262,1281
+Cambridge,MA,1-Bedroom,0,2220,2283,2365,2317,2308,2329,2362,2387
+Roseville,CA,1-Bedroom,0,0,0,0,0,0,0,0,1352
+Burbank,CA,1-Bedroom,0,0,0,0,0,0,0,1713,1751
+Everett,WA,1-Bedroom,0,725,820,872,905,933,1019,1089,1172
+Spartanburg,SC,1-Bedroom,0,0,0,0,0,0,0,835,810
+Bend,OR,1-Bedroom,0,0,0,0,0,0,0,1174,1174
+Tuscaloosa,AL,1-Bedroom,0,0,0,0,0,0,0,743,750
+Springfield,VA,1-Bedroom,0,0,0,0,0,0,0,0,1561
+Wilmington,NC,1-Bedroom,0,575,643,697,724,734,796,848,872
+Pompano Beach,FL,1-Bedroom,0,868,895,911,940,1006,1032,1172,1231
+Davenport,IA,1-Bedroom,0,0,0,0,0,0,0,610,615
+Grand Junction,CO,1-Bedroom,0,0,0,0,0,0,0,613,614
+Fargo,ND,1-Bedroom,0,0,0,0,0,0,0,689,656
+West Covina,CA,1-Bedroom,0,0,0,0,0,0,0,0,1632
+Carlsbad,CA,1-Bedroom,0,0,0,0,0,0,0,1850,1934
+Bowling Green,KY,1-Bedroom,0,0,0,0,0,0,0,683,714
+Lewisville,TX,1-Bedroom,0,700,712,748,811,817,913,985,988
+Beaverton,OR,1-Bedroom,0,0,0,0,867,964,1161,1165,1237
+West Palm Beach,FL,1-Bedroom,0,0,0,0,978,1070,1258,1282,1333
+Columbia,MO,1-Bedroom,0,0,0,0,0,0,0,556,594
+Erie,PA,1-Bedroom,0,0,0,0,0,0,0,525,559
+Cedar Rapids,IA,1-Bedroom,0,0,0,0,0,0,0,514,485
+Norcross,GA,1-Bedroom,0,0,0,0,0,0,743,783,846
+Fairfield,CA,1-Bedroom,0,0,0,0,0,0,0,1657,1696
+San Mateo,CA,1-Bedroom,0,0,2085,2021,2185,2417,2591,2512,2611
+Daly City,CA,1-Bedroom,0,0,0,0,0,0,0,0,2363
+San Leandro,CA,1-Bedroom,0,0,0,0,0,0,0,1646,1698
+Sandy Springs,GA,1-Bedroom,0,829,786,770,954,1029,1078,1048,1145
+Albany,NY,1-Bedroom,0,0,0,0,0,0,957,897,896
+Richardson,TX,1-Bedroom,0,0,0,0,0,1070,1153,1241,1333
+Portsmouth,VA,1-Bedroom,0,0,0,0,0,0,0,991,957
+Longview,TX,1-Bedroom,0,0,0,0,0,0,0,631,646
+Laurel,MD,1-Bedroom,0,0,0,0,1270,1252,1247,1324,1292
+Duluth,GA,1-Bedroom,0,0,0,0,0,0,0,940,1132
+Davie,FL,1-Bedroom,0,0,0,0,0,0,1412,1363,1404
+West Chester,PA,1-Bedroom,0,0,0,0,0,1357,1294,1337,1329
+Columbia,MD,1-Bedroom,0,1268,1306,1267,1301,1325,1374,1421,1652
+Newton,MA,1-Bedroom,0,0,1609,1634,1691,1697,1767,1763,1841
+Lawrence,KS,1-Bedroom,0,0,0,0,0,0,0,590,606
+Mission Viejo,CA,1-Bedroom,0,0,1344,1425,1492,1616,1742,1803,1858
+Riverview,FL,1-Bedroom,0,0,0,0,0,0,0,1237,1139
+South Bend,IN,1-Bedroom,0,0,0,0,0,0,0,592,621
+Arvada,CO,1-Bedroom,0,0,0,0,0,0,0,1510,1438
+Lawton,OK,1-Bedroom,0,0,0,0,0,0,0,500,489
+Annapolis,MD,1-Bedroom,0,0,0,0,0,0,0,1541,1544
+Highlands Ranch,CO,1-Bedroom,0,0,0,0,0,1326,1372,1382,1476
+Federal Way,WA,1-Bedroom,0,0,0,0,0,0,0,1068,1172
+Hillsboro,OR,1-Bedroom,0,0,0,0,1017,1112,1359,1364,1361
+Champaign,IL,1-Bedroom,0,0,0,0,0,0,0,570,591
+Bethlehem,PA,1-Bedroom,0,0,0,0,0,0,0,0,1380
+Elgin,IL,1-Bedroom,0,0,0,0,0,0,0,0,881
+Santa Monica,CA,1-Bedroom,0,2296,2271,2327,2434,2662,2995,2952,2943
+Muncie,IN,1-Bedroom,0,0,0,0,0,0,0,479,490
+Plantation,FL,1-Bedroom,0,945,1021,1066,1104,1193,1279,1275,1348
+Cheyenne,WY,1-Bedroom,0,0,0,0,0,0,0,634,655
+Lynchburg,VA,1-Bedroom,0,0,0,0,0,0,0,582,666
+McDonough,GA,1-Bedroom,0,0,0,0,0,0,0,0,1005
+Terre Haute,IN,1-Bedroom,0,0,0,0,0,0,0,486,481
+Bryan,TX,1-Bedroom,0,0,0,0,0,0,0,0,830
+Miami Beach,FL,1-Bedroom,1706,1560,1662,1692,1779,1805,1894,1792,1765
+Concord,NC,1-Bedroom,0,0,0,0,0,0,0,962,1004
+Allen,TX,1-Bedroom,0,0,0,0,0,0,0,1294,1276
+Franklin,TN,1-Bedroom,0,0,0,0,0,0,0,1326,1310
+Herndon,VA,1-Bedroom,0,1358,1446,1478,1417,1453,1476,1517,1617
+Trenton,NJ,1-Bedroom,0,0,0,0,0,0,0,798,836
+Nashua,NH,1-Bedroom,0,0,0,0,0,0,0,1033,1044
+Edmond,OK,1-Bedroom,0,0,0,0,0,0,0,670,664
+Lynn,MA,1-Bedroom,0,0,0,0,0,0,0,1600,1618
+Reading,PA,1-Bedroom,0,0,0,0,0,0,0,585,600
+Bowie,MD,1-Bedroom,0,0,0,0,0,0,0,1577,1600
+Boulder,CO,1-Bedroom,0,0,0,0,0,1424,1518,1497,1556
+Norwalk,CT,1-Bedroom,0,1556,1642,1719,1654,1668,1743,1707,1706
+Poughkeepsie,NY,1-Bedroom,0,0,0,0,0,0,0,943,940
+Apopka,FL,1-Bedroom,0,0,0,0,0,0,0,1031,1033
+Germantown,MD,1-Bedroom,0,0,0,0,0,0,1410,1230,1331
+Richmond,CA,1-Bedroom,0,0,0,0,0,0,0,0,1991
+Hawthorne,CA,1-Bedroom,0,0,0,0,0,0,1150,1228,1307
+Suffolk,VA,1-Bedroom,0,0,0,0,0,0,0,1076,1032
+Spokane Valley,WA,1-Bedroom,0,0,0,0,0,0,0,815,841
+Farmington Hills,MI,1-Bedroom,0,0,0,0,0,0,0,937,1011
+Santa Barbara,CA,1-Bedroom,0,0,0,0,0,0,1911,1873,1929
+Ogden,UT,1-Bedroom,0,0,0,0,0,0,0,587,577
+Alhambra,CA,1-Bedroom,0,0,0,0,0,0,0,1743,1570
+Leesburg,VA,1-Bedroom,0,0,0,0,0,0,0,1407,1465
+Kent,WA,1-Bedroom,0,0,0,0,836,959,1042,1119,1264
+Loveland,CO,1-Bedroom,0,0,0,0,0,0,0,1257,1232
+Sterling,VA,1-Bedroom,0,0,0,0,0,0,0,1537,1495
+Quincy,MA,1-Bedroom,0,1381,1495,1537,1503,1537,1633,1651,1808
+Danbury,CT,1-Bedroom,0,0,0,0,0,0,1749,1564,1613
+Arden-Arcade,CA,1-Bedroom,0,650,677,691,684,710,791,867,941
+Parker,CO,1-Bedroom,0,0,0,0,0,0,0,1314,1341
+Glen Burnie,MD,1-Bedroom,0,0,0,0,0,989,1045,1096,1085
+Ashburn,VA,1-Bedroom,0,0,1356,1365,1371,1361,1387,1488,1531
+Roswell,GA,1-Bedroom,0,0,0,0,0,0,0,1100,1127
+Longmont,CO,1-Bedroom,0,0,0,0,0,0,1139,1203,1289
+Newnan,GA,1-Bedroom,0,0,0,0,0,0,0,959,983
+Cranston,RI,1-Bedroom,0,0,0,0,0,0,0,950,981
+Tustin,CA,1-Bedroom,0,0,0,0,0,0,0,1813,1779
+Bloomington,IL,1-Bedroom,0,0,0,0,0,0,0,578,575
+Walnut Creek,CA,1-Bedroom,0,0,0,0,0,0,0,0,2501
+Town 'n' Country,FL,1-Bedroom,0,770,816,824,867,889,968,987,1060
+Whittier,CA,1-Bedroom,0,0,0,0,0,0,0,1276,1291
+Thousand Oaks,CA,1-Bedroom,0,0,0,0,0,0,0,1843,1850
+Upland,CA,1-Bedroom,0,0,0,0,0,0,0,1285,1334
+Iowa City,IA,1-Bedroom,0,0,0,0,0,0,0,785,731
+Arlington Heights,IL,1-Bedroom,0,0,0,0,0,0,0,1450,1549
+New Braunfels,TX,1-Bedroom,0,0,0,0,0,0,0,1016,1018
+Bethlehem,PA,1-Bedroom,0,0,0,0,0,0,0,896,917
+Evanston,IL,1-Bedroom,0,0,0,0,0,1173,1237,1259,1326
+Pflugerville,TX,1-Bedroom,0,0,0,0,0,0,0,959,1031
+Redmond,WA,1-Bedroom,0,0,1361,1324,1487,1555,1680,1689,1757
+Somerville,MA,1-Bedroom,0,0,0,1758,1723,1806,1841,1920,1952
+New Britain,CT,1-Bedroom,0,0,0,0,0,0,0,0,784
+Largo,FL,1-Bedroom,0,0,0,0,0,0,0,813,868
+Redlands,CA,1-Bedroom,0,0,0,0,0,0,0,0,1302
+North Charleston,SC,1-Bedroom,0,0,0,0,0,0,0,926,1018
+League City,TX,1-Bedroom,0,0,0,0,0,0,0,1021,1057
+Pawtucket,RI,1-Bedroom,0,0,0,0,0,0,0,0,869
+Folsom,CA,1-Bedroom,0,0,0,0,0,0,0,1451,1415
+Sanford,FL,1-Bedroom,0,0,0,0,0,0,0,978,1027
+Lynnwood,WA,1-Bedroom,0,0,0,0,0,0,0,1445,1385
+Lake Forest,CA,1-Bedroom,0,0,0,0,0,0,0,1731,1746
+Wilmington,DE,1-Bedroom,0,0,0,0,0,1045,1030,1092,1064
+San Ramon,CA,1-Bedroom,0,0,0,0,0,0,0,1934,2013
+New Rochelle,NY,1-Bedroom,0,1349,1557,1658,1412,1427,1510,1577,1649
+La Mesa,CA,1-Bedroom,0,0,0,0,0,1316,1365,1464,1497
+Palm Harbor,FL,1-Bedroom,0,0,0,0,0,0,0,997,974
+Mount Pleasant,SC,1-Bedroom,0,0,0,0,0,0,0,1253,1374
+Pleasanton,CA,1-Bedroom,0,0,0,0,0,0,0,2179,2212
+Smyrna,GA,1-Bedroom,0,0,0,0,0,0,0,0,1136
+Gresham,OR,1-Bedroom,0,0,0,0,0,0,0,1043,1074
+Greenville,NC,1-Bedroom,0,0,0,0,0,0,0,493,478
+Framingham,MA,1-Bedroom,0,0,0,0,0,0,1471,1468,1598
+Lauderhill,FL,1-Bedroom,0,776,804,833,832,869,916,982,1039
+Redondo Beach,CA,1-Bedroom,0,0,0,0,0,0,2121,1980,1974
+Bismarck,ND,1-Bedroom,0,0,0,0,0,0,0,0,625
+Mooresville,NC,1-Bedroom,0,0,0,0,0,0,0,877,891
+Centreville,VA,1-Bedroom,0,0,0,0,0,0,0,1486,1502
+San Marcos,CA,1-Bedroom,0,0,0,0,0,0,0,1796,1759
+Bremerton,WA,1-Bedroom,0,0,0,0,0,0,0,850,914
+Schaumburg,IL,1-Bedroom,0,0,0,0,0,0,0,1192,1211
+Ellicott City,MD,1-Bedroom,0,0,0,0,0,0,0,1212,1279
+Plymouth,MN,1-Bedroom,0,0,0,0,0,0,0,1294,1233
+Waldorf,MD,1-Bedroom,0,0,0,0,0,0,0,1561,1508
+Casper,WY,1-Bedroom,0,0,0,0,0,0,0,668,671
+San Rafael,CA,1-Bedroom,0,0,0,0,0,0,0,2343,2370
+Palo Alto,CA,1-Bedroom,0,0,0,0,0,0,0,2590,2611
+Portland,ME,1-Bedroom,0,0,0,0,0,0,0,1445,1364
+Union City,NJ,1-Bedroom,0,1212,1198,1135,1188,1256,1305,1347,1369
+Tomball,TX,1-Bedroom,0,0,0,0,0,0,0,946,970
+The Woodlands,TX,1-Bedroom,0,0,0,0,0,0,0,1052,1092
+Lafayette,IN,1-Bedroom,0,0,0,0,0,0,0,627,641
+Waterloo,IA,1-Bedroom,0,0,0,0,0,0,0,479,499
+Vienna,VA,1-Bedroom,0,0,0,0,0,0,0,1628,1685
+East Orange,NJ,1-Bedroom,0,0,0,0,0,0,0,1073,1144
+Chino Hills,CA,1-Bedroom,0,0,0,0,0,0,0,1622,1620
+Manhattan,KS,1-Bedroom,0,0,0,0,0,0,0,660,633
+Alameda,CA,1-Bedroom,0,0,0,0,0,0,0,1914,1928
+Daytona Beach,FL,1-Bedroom,0,0,0,0,0,0,0,757,774
+Bossier City,LA,1-Bedroom,0,0,0,0,0,875,846,850,829
+Corvallis,OR,1-Bedroom,0,0,0,0,0,0,0,818,824
+Mount Vernon,NY,1-Bedroom,0,1235,1208,1268,1307,1327,1369,1386,1484
+Bethesda,MD,1-Bedroom,0,2045,2236,2310,2172,2091,2154,2217,2205
+Lorain,OH,1-Bedroom,0,0,0,0,0,0,0,491,496
+Baytown,TX,1-Bedroom,0,0,0,0,0,0,0,0,1150
+West Hartford,CT,1-Bedroom,0,0,0,0,0,0,0,1341,1329
+Glen Allen,VA,1-Bedroom,0,0,0,0,0,0,0,1047,1072
+Laguna Niguel,CA,1-Bedroom,0,0,0,0,0,0,1798,1803,1891
+San Marcos,TX,1-Bedroom,0,0,0,0,0,0,0,910,933
+Woodbury,MN,1-Bedroom,0,0,0,0,0,0,0,1253,1272
+Burnsville,MN,1-Bedroom,0,0,0,0,0,0,0,1012,982
+La Habra,CA,1-Bedroom,0,0,0,0,0,0,0,0,1493
+Carmel,IN,1-Bedroom,0,0,0,0,0,893,891,911,954
+Hamden,CT,1-Bedroom,0,0,0,0,1013,1047,1131,1131,1149
+Hendersonville,TN,1-Bedroom,0,0,0,0,0,0,0,891,943
+Tamarac,FL,1-Bedroom,0,805,837,848,880,933,989,1051,1118
+Meriden,CT,1-Bedroom,0,0,0,0,0,0,0,875,840
+Reston,VA,1-Bedroom,0,0,0,0,0,0,0,0,2068
+Dundalk,MD,1-Bedroom,0,0,0,0,0,0,0,842,861
+Lancaster,PA,1-Bedroom,0,0,0,0,0,0,0,804,803
+Waltham,MA,1-Bedroom,0,1790,1787,1953,1733,1809,1822,1835,1846
+Haverhill,MA,1-Bedroom,0,0,0,0,0,0,0,1415,1458
+Bellevue,NE,1-Bedroom,0,0,0,0,0,0,0,759,738
+Jupiter,FL,1-Bedroom,0,0,0,0,0,0,0,1490,1526
+Fountainbleau,FL,1-Bedroom,0,0,0,0,0,0,0,1414,1438
+Malden,MA,1-Bedroom,0,1355,1442,1480,1430,1456,1504,1533,1692
+Royal Oak,MI,1-Bedroom,0,0,0,0,0,0,0,992,1044
+Newport Beach,CA,1-Bedroom,0,0,0,0,0,2115,2250,2251,2220
+Gaithersburg,MD,1-Bedroom,0,0,1390,1446,1427,1480,1409,1362,1387
+Fort Mill,SC,1-Bedroom,0,0,0,0,0,0,0,0,970
+San Clemente,CA,1-Bedroom,0,0,0,0,0,0,1840,1754,1785
+West Des Moines,IA,1-Bedroom,0,0,0,0,0,0,0,900,958
+Bayonne,NJ,1-Bedroom,0,0,0,0,0,0,0,1216,1221
+Schenectady,NY,1-Bedroom,0,0,0,0,0,0,0,855,859
+White Plains,NY,1-Bedroom,0,2064,1839,2127,2079,2099,2094,2027,2224
+Medford,MA,1-Bedroom,0,0,0,0,0,0,0,1995,1958
+Bensalem,PA,1-Bedroom,0,0,0,0,0,0,0,1017,1078
+Grand Forks,ND,1-Bedroom,0,0,0,0,0,0,0,0,599
+Goose Creek,SC,1-Bedroom,0,0,0,0,0,0,0,1135,1049
+Deerfield Beach,FL,1-Bedroom,0,939,1041,1069,1055,1053,1117,1198,1271
+Altamonte Springs,FL,1-Bedroom,0,686,720,727,726,749,854,911,982
+Margate,FL,1-Bedroom,0,0,0,0,0,0,0,1136,1172
+Wheaton,IL,1-Bedroom,0,0,0,0,0,0,0,1398,1326
+Broomfield,CO,1-Bedroom,0,0,1073,1095,1185,1212,1324,1354,1433
+Coconut Creek,FL,1-Bedroom,0,896,929,979,1004,1067,1127,1210,1299
+Atascocita,TX,1-Bedroom,0,0,0,0,0,0,0,945,959
+Delray Beach,FL,1-Bedroom,0,1015,1056,1034,1120,1188,1311,1378,1486
+West Haven,CT,1-Bedroom,0,0,0,0,0,0,0,942,1060
+Rockville,MD,1-Bedroom,0,1615,1691,1697,1614,1564,1706,1680,1701
+The Hammocks,FL,1-Bedroom,0,943,986,1023,1066,1157,1255,1299,1310
+Missoula,MT,1-Bedroom,0,0,636,641,640,670,730,718,739
+Fountain Valley,CA,1-Bedroom,0,0,0,0,0,0,0,1720,1748
+Piscataway,NJ,1-Bedroom,0,0,0,0,0,0,0,0,1428
+New Brunswick,NJ,1-Bedroom,0,0,0,0,0,0,0,1599,1666
+Parsippany-Troy Hills,NJ,1-Bedroom,0,0,0,0,0,0,0,1368,1382
+Issaquah,WA,1-Bedroom,0,0,0,0,0,0,0,1745,1824
+West New York,NJ,1-Bedroom,0,0,0,0,0,0,1460,1416,1562
+Peabody,MA,1-Bedroom,0,0,0,0,0,0,0,1751,1762
+Gloucester,NJ,1-Bedroom,0,0,0,0,0,0,0,941,960
+Petersburg,VA,1-Bedroom,0,0,0,0,0,0,0,885,874
+Urbana,IL,1-Bedroom,0,0,0,0,0,0,0,615,608
+Hoboken,NJ,1-Bedroom,0,2183,2288,2292,2179,2254,2345,2244,2372
+Spring,TX,1-Bedroom,0,0,0,0,0,0,0,1109,1153
+Brookline,MA,1-Bedroom,0,1773,1833,1908,1946,1975,2036,2079,2166
+Owings Mills,MD,1-Bedroom,0,0,0,0,0,0,0,1228,1230
+North Miami,FL,1-Bedroom,0,870,897,941,990,1029,1168,1174,1216
+Stratford,CT,1-Bedroom,0,0,0,0,0,0,0,1458,1409
+Milford,CT,1-Bedroom,0,0,0,0,0,0,0,1505,1534
+Harrisburg,PA,1-Bedroom,0,0,0,0,0,0,0,0,818
+Edina,MN,1-Bedroom,0,0,0,0,0,0,0,1557,1507
+Tigard,OR,1-Bedroom,0,0,0,0,0,0,0,0,1330
+Middletown,CT,1-Bedroom,0,0,0,0,0,0,0,1000,960
+Lenexa,KS,1-Bedroom,0,0,0,0,0,0,0,747,759
+Revere,MA,1-Bedroom,0,0,0,0,0,0,0,1546,1757
+Minot,ND,1-Bedroom,0,0,0,0,0,0,0,446,482
+Binghamton,NY,1-Bedroom,0,0,0,0,0,0,0,625,610
+Mc Lean,VA,1-Bedroom,0,0,1717,1718,1708,1771,1754,1828,1905
+Wake Forest,NC,1-Bedroom,0,0,0,0,0,0,0,987,999
+Lakewood,OH,1-Bedroom,0,0,0,0,0,0,0,669,708
+Johns Creek,GA,1-Bedroom,0,0,0,0,0,0,0,1233,1216
+East Brunswick,NJ,1-Bedroom,0,0,0,0,0,0,0,0,1999
+Apex,NC,1-Bedroom,0,0,0,0,0,0,0,954,1028
+Huntersville,NC,1-Bedroom,0,0,0,0,0,0,0,1016,993
+Galveston,TX,1-Bedroom,0,0,0,0,0,0,0,827,856
+Aliso Viejo,CA,1-Bedroom,0,0,0,0,0,1696,1742,1847,1931
+Fort Washington,MD,1-Bedroom,0,0,0,0,0,0,0,1270,1251
+North Bethesda,MD,1-Bedroom,0,0,0,0,0,0,1553,1682,1712
+Charlottesville,VA,1-Bedroom,0,0,813,870,891,859,906,948,1056
+Edmonds,WA,1-Bedroom,0,0,0,0,0,0,0,1344,1382
+York,PA,1-Bedroom,0,0,0,0,0,0,0,594,628
+Hackensack,NJ,1-Bedroom,0,0,0,0,0,0,0,1737,1679
+Campbell,CA,1-Bedroom,0,0,0,0,0,0,0,2123,2188
+Clovis,NM,1-Bedroom,0,0,0,0,0,0,0,0,541
+Arlington,MA,1-Bedroom,0,0,0,1396,1408,1447,1519,1558,1657
+Alpharetta,GA,1-Bedroom,0,0,0,0,0,0,0,1244,1281
+Charleston,WV,1-Bedroom,0,0,0,0,0,0,0,633,647
+Palm Springs,CA,1-Bedroom,0,0,0,0,0,0,0,1155,1099
+Oakland Park,FL,1-Bedroom,0,800,827,847,885,951,1003,1021,1086
+Dunwoody,GA,1-Bedroom,0,890,949,994,1030,1112,1190,1230,1312
+West Chester,OH,1-Bedroom,0,0,0,0,0,0,0,1180,1130
+Rancho Santa Margarita,CA,1-Bedroom,0,0,0,0,0,0,0,1747,1746
+Hoover,AL,1-Bedroom,0,0,0,0,0,0,0,774,766
+Norwich,CT,1-Bedroom,0,0,0,0,0,0,0,0,813
+Country Club,FL,1-Bedroom,0,0,0,0,0,0,0,1210,1267
+Salem,MA,1-Bedroom,0,0,0,0,0,0,0,1508,1631
+Menlo Park,CA,1-Bedroom,0,0,0,0,0,0,0,2787,3027
+Sarasota,FL,1-Bedroom,0,0,0,0,0,0,1238,1185,1239
+Towson,MD,1-Bedroom,0,0,0,0,0,0,0,1298,1300
+Manassas,VA,1-Bedroom,0,0,0,0,0,0,0,1267,1305
+Bothell,WA,1-Bedroom,0,0,0,0,0,0,0,1470,1545
+Palm Beach Gardens,FL,1-Bedroom,0,1010,1070,1099,1189,1243,1297,1341,1372
+Littleton,CO,1-Bedroom,0,0,0,0,0,0,0,1154,1244
+Brookhaven,GA,1-Bedroom,0,0,0,0,1281,1178,1262,1328,1393
+Hallandale,FL,1-Bedroom,0,1160,1240,1305,1370,1477,1489,1453,1464
+Great Neck,NY,1-Bedroom,0,0,0,0,0,0,0,2500,2526
+Naples,FL,1-Bedroom,0,0,0,0,0,0,0,1297,1313
+Marlborough,MA,1-Bedroom,0,0,0,0,0,0,0,1668,1639
+Montclair,NJ,1-Bedroom,0,0,0,0,0,0,0,1603,1657
+San Bruno,CA,1-Bedroom,0,0,0,0,0,0,0,0,2366
+Franconia,VA,1-Bedroom,0,0,0,0,0,0,0,1691,1684
+Beverly,MA,1-Bedroom,0,0,0,0,0,0,0,1680,1645
+Chelsea,MA,1-Bedroom,0,0,0,0,0,0,0,1642,1732
+Hagerstown,MD,1-Bedroom,0,0,0,0,0,0,0,637,654
+Woburn,MA,1-Bedroom,0,0,1362,1340,1317,1348,1392,1417,1547
+Dublin,CA,1-Bedroom,0,0,0,0,0,0,0,2378,2456
+Hurst,TX,1-Bedroom,0,0,0,0,0,653,715,742,792
+Cedar Falls,IA,1-Bedroom,0,0,0,0,0,0,0,635,671
+Culver City,CA,1-Bedroom,0,0,0,0,0,0,0,0,2055
+The Colony,TX,1-Bedroom,0,0,0,0,0,0,0,1043,1086
+Windsor Mill,MD,1-Bedroom,0,0,0,0,0,0,0,986,965
+Braintree,MA,1-Bedroom,0,0,0,0,0,0,0,2112,2061
+Beverly Hills,CA,1-Bedroom,0,0,0,0,0,0,0,2474,2530
+Gurnee,IL,1-Bedroom,0,0,0,0,0,0,0,1213,1251
+West Hollywood,CA,1-Bedroom,0,0,2020,1897,2001,2180,2385,2378,2472
+Lake Worth,FL,1-Bedroom,0,0,0,0,0,0,0,928,954
+University,FL,1-Bedroom,0,0,0,0,0,0,0,773,856
+Aventura,FL,1-Bedroom,1341,1344,1425,1480,1548,1613,1620,1582,1643
+Lake Mary,FL,1-Bedroom,0,0,0,0,0,0,0,994,1090
+Natick,MA,1-Bedroom,0,0,0,0,0,0,0,1580,1484
+Englewood,CO,1-Bedroom,0,0,0,0,0,1073,1199,1300,1417
+Dover,DE,1-Bedroom,0,0,0,0,0,0,0,935,936
+Northglenn,CO,1-Bedroom,0,0,0,0,0,0,0,1088,1120
+Temple Hills,MD,1-Bedroom,0,0,0,0,0,0,0,1100,1053
+Burlington,VT,1-Bedroom,0,0,0,0,0,0,0,1155,1252
+Belleville,IL,1-Bedroom,0,0,0,0,0,0,0,0,533
+Foster City,CA,1-Bedroom,0,0,0,0,0,2611,2750,2812,2882
+Manalapan,NJ,1-Bedroom,0,0,0,0,0,0,0,1373,1452
+Perrysburg,OH,1-Bedroom,0,0,0,0,0,0,0,0,874
+North Royalton,OH,1-Bedroom,0,0,0,0,0,0,0,864,874
+Winter Park,FL,1-Bedroom,0,0,0,0,0,0,0,0,1397
+Parkville,MD,1-Bedroom,0,0,0,0,0,0,0,1015,987
+North Miami Beach,FL,1-Bedroom,0,883,930,928,965,1110,1159,1192,1196
+Dania Beach,FL,1-Bedroom,0,0,0,0,0,0,0,0,1224
+Norwood,MA,1-Bedroom,0,0,0,0,0,0,0,1711,1703
+Needham,MA,1-Bedroom,0,0,0,0,0,0,0,2652,2521
+Port Chester,NY,1-Bedroom,0,0,0,0,0,0,0,2292,2219
+Burlingame,CA,1-Bedroom,0,0,0,0,0,0,0,2343,2481
+Reisterstown,MD,1-Bedroom,0,0,0,0,0,0,0,980,986
+Farmers Branch,TX,1-Bedroom,0,0,0,0,0,0,0,1195,1245
+Long Beach,NY,1-Bedroom,0,1500,1617,1705,1667,1792,1867,1845,1946
+Watertown,MA,1-Bedroom,0,0,0,0,1706,1820,1903,1863,1981
+Andover,MA,1-Bedroom,0,0,0,0,0,0,0,0,1705
+Rolla,MO,1-Bedroom,0,0,0,0,0,0,0,447,440
+Englewood,NJ,1-Bedroom,0,0,0,0,0,0,0,1890,2005
+Bethel Park,PA,1-Bedroom,0,0,0,0,0,0,0,0,869
+Atlantic City,NJ,1-Bedroom,0,0,0,0,0,0,0,0,880
+Odenton,MD,1-Bedroom,0,0,0,0,0,0,0,1581,1585
+Tewksbury,MA,1-Bedroom,0,0,0,0,0,0,0,1873,1814
+Dana Point,CA,1-Bedroom,0,0,0,0,0,0,0,1920,1921
+Lower Merion,PA,1-Bedroom,0,0,0,0,0,0,0,1603,1616
+Elkridge,MD,1-Bedroom,0,0,0,0,0,0,0,1594,1558
+Lorton,VA,1-Bedroom,0,0,0,0,0,0,0,1795,1631
+Mercer Island,WA,1-Bedroom,0,0,0,0,0,0,0,1955,2024
+Lisle,IL,1-Bedroom,0,0,0,0,0,0,0,0,1369
+Groveton,VA,1-Bedroom,0,0,0,0,0,0,0,0,1686
+Westchase,FL,1-Bedroom,0,0,0,0,0,0,0,1222,1259
+Beltsville,MD,1-Bedroom,0,0,0,0,0,0,0,1374,1301
+Westmont,IL,1-Bedroom,0,0,0,0,0,0,0,0,1089
+Minnetonka,MN,1-Bedroom,0,0,0,0,0,0,0,1414,1376
+Maplewood,NJ,1-Bedroom,0,0,0,0,0,0,0,0,1935
+Hatfield,PA,1-Bedroom,0,0,0,0,0,0,0,1050,1107
+Lyndhurst,NJ,1-Bedroom,0,0,0,0,0,0,0,1949,2082
+College Park,MD,1-Bedroom,0,0,0,0,0,0,0,1741,1587
+Homewood,AL,1-Bedroom,0,0,0,0,0,0,0,0,900
+Laguna Beach,CA,1-Bedroom,0,0,0,0,2467,2633,2725,2803,2667
+Ives Estates,FL,1-Bedroom,0,0,0,0,0,0,0,1322,1274
+Silverdale,WA,1-Bedroom,0,0,0,0,0,0,0,0,1298
+Sunny Isles Beach,FL,1-Bedroom,1400,1289,1436,1509,1550,1725,1782,1699,1705
+Mill Creek,WA,1-Bedroom,0,0,0,0,0,0,0,1521,1465
+Temple Terrace,FL,1-Bedroom,0,0,0,0,0,0,0,0,1052
+Jacksonville Beach,FL,1-Bedroom,0,0,0,0,0,0,0,0,1315
+Coram,NY,1-Bedroom,0,0,0,0,0,0,0,0,1748
+Morristown,NJ,1-Bedroom,0,0,0,0,0,0,0,2084,2122
+Hermosa Beach,CA,1-Bedroom,0,0,0,0,0,0,0,2277,2490
+Lexington Park,MD,1-Bedroom,0,0,0,0,0,0,0,1089,1075
+Decatur,GA,1-Bedroom,0,0,0,0,0,0,0,1503,1541
+North Druid Hills,GA,1-Bedroom,0,0,0,0,0,0,0,1136,1156
+Morrisville,NC,1-Bedroom,0,0,0,0,0,0,0,1005,1021
+Universal City,TX,1-Bedroom,0,0,0,0,0,0,0,735,760
+Hyattsville,MD,1-Bedroom,0,0,0,0,0,0,0,1585,1616
+North Decatur,GA,1-Bedroom,0,0,0,0,0,0,0,1351,1283
+Ojus,FL,1-Bedroom,0,0,0,0,0,0,0,1205,1200
+Glenvar Heights,FL,1-Bedroom,0,0,0,0,0,0,0,1794,1946
+Maitland,FL,1-Bedroom,0,0,0,0,0,0,0,0,1435
+Plainsboro,NJ,1-Bedroom,0,0,0,0,0,0,1230,1293,1399
+Phoenixville,PA,1-Bedroom,0,0,0,0,0,0,0,0,1484
+Forest Park,IL,1-Bedroom,0,0,0,0,0,0,0,926,968
+Maple Shade,NJ,1-Bedroom,0,0,0,0,0,0,0,0,1105
+Druid Hills,GA,1-Bedroom,0,0,0,0,0,0,0,1481,1405
+Wilsonville,OR,1-Bedroom,0,0,0,0,0,0,0,1288,1228
+Exton,PA,1-Bedroom,0,0,0,0,0,0,0,1334,1416
+Weehawken,NJ,1-Bedroom,0,0,0,0,0,0,2288,2423,2467
+Lone Tree,CO,1-Bedroom,0,0,0,0,0,0,0,1406,1484
+Greenwood Village,CO,1-Bedroom,0,0,0,0,0,0,0,1467,1514
+Eatontown,NJ,1-Bedroom,0,0,0,0,0,0,0,0,1374
+Edgewater,NJ,1-Bedroom,0,0,0,0,0,0,0,2298,2312
+Wilton Manors,FL,1-Bedroom,0,0,0,0,0,0,0,1140,1157
+Islip,NY,1-Bedroom,0,1340,1403,1405,1482,1492,1511,1653,1752
+Guttenberg,NJ,1-Bedroom,0,0,0,0,0,0,0,1773,1759
+Jollyville,TX,1-Bedroom,0,0,0,0,0,0,838,842,874
+Conshohocken,PA,1-Bedroom,0,0,0,0,0,0,0,1468,1536
+Largo,MD,1-Bedroom,0,0,0,0,0,0,0,1395,1338
+Emeryville,CA,1-Bedroom,0,0,0,0,0,0,0,2636,2707
+Saint Robert,MO,1-Bedroom,0,0,0,0,0,0,0,536,534
+Marina del Rey,CA,1-Bedroom,0,0,2490,2414,2555,2751,2838,2951,3220
+Huntington,VA,1-Bedroom,0,0,0,0,1537,1544,1584,1598,1596
+Hanover,MD,1-Bedroom,0,0,0,0,0,0,0,1722,1766
+Addison,TX,1-Bedroom,0,0,0,1155,1065,1122,1183,1214,1260
+Vinings,GA,1-Bedroom,0,0,0,0,0,0,0,1262,1363
+Chamblee,GA,1-Bedroom,0,0,0,0,0,0,0,0,1501
+Chevy Chase,MD,1-Bedroom,0,0,0,0,0,0,0,0,1930
+Eastchester,NY,1-Bedroom,0,0,0,0,0,0,0,0,2119
+Prosper,TX,1-Bedroom,0,0,0,0,0,0,0,989,1006
+North Bay Village,FL,1-Bedroom,0,1148,1205,1276,1377,1570,1673,1655,1641
+Eastampton,NJ,1-Bedroom,0,0,0,0,0,0,0,1155,1136
+Richmond,TX,1-Bedroom,0,0,0,0,0,0,0,1016,1013
+Century Village,FL,1-Bedroom,0,0,0,0,0,0,0,865,857
+Surfside,FL,1-Bedroom,0,0,0,0,0,0,0,1808,1800
+Bay Harbor Islands,FL,1-Bedroom,0,0,0,0,0,0,0,1513,1520
+Glendale,CO,1-Bedroom,0,0,0,0,0,0,0,1105,1089
+Bal Harbour,FL,1-Bedroom,0,0,0,0,0,0,0,0,2688
+Clarkstown,NY,1-Bedroom,0,0,0,0,0,0,0,1850,1796
+Bee Cave,TX,1-Bedroom,0,0,0,0,0,0,0,1103,1154
+Henrico,VA,1-Bedroom,0,0,0,0,0,0,0,949,1011
